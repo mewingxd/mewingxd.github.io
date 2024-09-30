@@ -1,3 +1,3 @@
 theme: Declaración
-title: Dí que si
-description: Hola Luis, te amo
+title: Declaración
+description: Hola Luis, te amoo
