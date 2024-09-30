@@ -1,7 +1,7 @@
 const yestBtn=document.querySelector('#yesBtn');
 
 yestBtn.addEventListener('click', function() {
-    alert('Sabía que ibas a decir que si :3' )
+    alert('Sabía que ibas a decir que si :3, te extraño mucho Luis' )
 });
 
 const noBtn=document.querySelector('#noBtn');
